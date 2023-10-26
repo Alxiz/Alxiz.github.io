@@ -1,5 +1,0 @@
----
-title: "Customer Shopping Trend 2023"
----
-
-Testing
