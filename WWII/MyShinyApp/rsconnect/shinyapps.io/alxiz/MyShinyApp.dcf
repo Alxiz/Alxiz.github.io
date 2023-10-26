@@ -1,0 +1,13 @@
+name: MyShinyApp
+title: MyShinyApp
+username: alxiz
+account: alxiz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10307249
+bundleId: 7851457
+url: https://alxiz.shinyapps.io/MyShinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Aircraft.csv|Books.csv|events.csv|facilities.csv|ships.csv|vehicles.csv|weapons.csv|ww2_dataset.csv

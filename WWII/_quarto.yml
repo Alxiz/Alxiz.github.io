@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "WWII"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: WWII_page.qmd
+        text: WWII
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true
+
+editor: visual
+

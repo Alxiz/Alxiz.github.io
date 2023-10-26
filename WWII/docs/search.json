@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analysis of WWII",
+    "section": "",
+    "text": "<iframe src=“https://datasciencegenie.shinypps.io/MyShinyApp/” height=“400” width=“100%” frameborder=“no” > </iframe>"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Course content\nhttps://github.com/Alxiz/NM2207"
+  },
+  {
+    "objectID": "WWII page.html",
+    "href": "WWII page.html",
+    "title": "WWII",
+    "section": "",
+    "text": "[alt text for screen readers](/path/to/image.png “ww2.webp”)"
+  },
+  {
+    "objectID": "WWII_page.html",
+    "href": "WWII_page.html",
+    "title": "WWII",
+    "section": "",
+    "text": "![WWII poster](/Home/WWII/WWII_png.png “WWII”)"
+  }
+]

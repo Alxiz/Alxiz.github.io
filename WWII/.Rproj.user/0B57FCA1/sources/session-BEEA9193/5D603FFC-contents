@@ -1,0 +1,45 @@
+---
+title: "Questions"
+author: "Deng Chunxi"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#What is the topic that you have finalized?
+#The topic that I have finalised is World War II.
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#(2) What are the data sources that you have curated so far?
+#I will be using data from https://www.kaggle.com/datasets/ramjasmaurya/world-war-2-archive, https://www.kaggle.com/datasets/notkrishna/world-war-2-causalities-by-country
+#It analyses the types of weapons used,vehicles and casualties, 
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#(1) What is the question that you are going to answer? (Answer: One sentence that ends with a question mark that could act like the title of your data story),
+
+#Who suffered the most from WWII? 
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#(2) Why is this an important question? (Answer: 3 sentences, each of which has some evidence, e.g., “According to the United Nations...” to justify why the question you have chosen is important
+
+#1.According to the UN, lessons from WWII is still relevant in guiding the work of UN.
+#2.According to the UN, WWII established the standard for judging evil empires and tyrants, we need to remember those that sacrificed themselves for a greater good of humanity.
+#3.According to the UN, having survived the catastrophe of World War II, humankind sought to embrace new means to prevent the recurrence of such tragic events. 
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#(3) Which rows and columns of the dataset will be used to answer this question? (Answer: Actual names of the variables in the dataset that you plan to use).
+
+#Primary role, country, total population, military death from all causes, civilians due to military and crimes against humanity, total deaths, death % compared to population at the start of war, avg death
+```
+
+```{r, eval=TRUE, echo=TRUE}
+#I had problem embedding the shiny app onto my website. When I keyed in the URL, Rstudio did not recognise the code as a HTML and instead read it as text. 
+```

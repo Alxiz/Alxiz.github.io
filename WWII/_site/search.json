@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analysis of WWII",
+    "section": "",
+    "text": "<iframe src=“https://alxiz.shinyapps.io/MyShinyApp/” height=“400” width=“100%” frameborder=“no” > </iframe>"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Course content\nhttps://github.com/Alxiz/NM2207"
+  }
+]
