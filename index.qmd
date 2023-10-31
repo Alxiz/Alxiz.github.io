@@ -1,7 +1,6 @@
 ---
-title: "Analysis of WWII"
+title: 
 ---
 
 ```{=html}
-<iframe src="https://alxiz.shinyapps.io/MyShinyApp/" height="400" width="100%" frameborder="no" > </iframe>
 ```

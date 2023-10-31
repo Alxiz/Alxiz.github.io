@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Analysis of WWII",
     "section": "",
-    "text": "<iframe src=“https://datasciencegenie.shinypps.io/MyShinyApp/” height=“400” width=“100%” frameborder=“no” > </iframe>"
+    "text": "\"https://alxiz.shinyapps.io/Percentageofcasualties/\"\""
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "WWII_page.html",
     "title": "WWII",
     "section": "",
-    "text": "![WWII poster](/Home/WWII/WWII_png.png “WWII”)"
+    "text": "\"https://alxiz.shinyapps.io/Percentageofcasualties/\""
   }
 ]
