@@ -6,8 +6,11 @@ editor: visual
 <img src="WWII_png.png" alt="Title poster" style="height: 500px; width:1000px;"/>
 
 ```{=html}
-<iframe height="500" width="100%" frameborder="no" src="https://alxiz.shinyapps.io/Percentageofcasualties/"> </iframe>
+<iframe height="500" width="120%" frameborder="no" src="https://alxiz.shinyapps.io/Percentageofcasualties/"> </iframe>
 ```
 ```{=html}
 <iframe height="500" width="120%" frameborder="no" src=https://alxiz.shinyapps.io/Militaryloss/> </iframe>
+```
+```{=html}
+<iframe height="730" width="120%" frameborder="no" src=https://alxiz.shinyapps.io/typesofresources/> </iframe>
 ```
