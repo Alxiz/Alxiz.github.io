@@ -8,6 +8,4 @@ I am Chunxi, a year 2 student majoring in Philosophy. Philosophy has changed my 
 
 # **Course content**
 
-```{=html}
-https://github.com/Alxiz/NM2207
-```
+[Github Folder](https://github.com/Alxiz/NM2207)
