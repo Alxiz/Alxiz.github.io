@@ -21,7 +21,7 @@ Firstly, the analysis sheds light on the immense human toll exacted by the confl
 <iframe height="500" width="120%" frameborder="no" src="https://alxiz.shinyapps.io/Percentageofcasualties/"> </iframe>
 ```
 <div style="text-align: right;">
-  **Click on the bars to show the percentage and count of deaths.**
+  **Navigate the bars to show the percentage and count of deaths.**
 </div>
 
 The top 4 countries that suffered the most deaths are Soviet Union, Germany, Poland and Japan. Soviet Union accounts for 59.4% of the total casualties, while Germany and Poland account for 16.3% and 13.2% respectively. Japan accounts for 6.8% while the rest of the countries each account for less than 1.5% of total deaths.
@@ -38,7 +38,7 @@ Moving on, the analysis of military resources allocated to World War II is cruci
 <iframe height="500" width="120%" frameborder="no" src=https://alxiz.shinyapps.io/Militaryloss/> </iframe>
 ```
 <div style="text-align: right;">
-  **Click on the bars to show the percentage and count of deaths.**
+  **Navigate the bars to show the percentage and count of deaths.**
 </div>
 
 #### [Aircraft]{.underline}
