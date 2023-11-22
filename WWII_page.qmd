@@ -38,7 +38,7 @@ Moving on, the analysis of military resources allocated to World War II is cruci
 <iframe height="500" width="120%" frameborder="no" src=https://alxiz.shinyapps.io/Militaryloss/> </iframe>
 ```
 <div style="text-align: right;">
-  **Navigate the bars to show the percentage and count of deaths.**
+  **Navigate the bars to show the percentage and count of military resources.**
 </div>
 
 #### [Aircraft]{.underline}
