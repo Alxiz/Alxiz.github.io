@@ -14,7 +14,7 @@ Analysing the impact of World War II on individual countries is crucial for unde
 <div style="float: right; margin: 0 0 1em 1em;">
   ![](casualties.gif)
 </div>
-Firstly, the analysis sheds light on the immense human toll exacted by the conflict. Casualty figures reveal the staggering cost borne by populations. Understanding the extent of human suffering emphasizes the social and political damage of World War II.
+Firstly, the analysis sheds light on the immense human toll exacted by the conflict. Casualty figures reveal the staggering cost borne by populations. Understanding the extent of human suffering emphasises the social and political damage of World War II.
 
 
 ```{=html}
@@ -47,15 +47,15 @@ The top 3 countries with the most types of aircraft used are the U.S, Japan and 
 
 #### [Ships]{.underline}
 
-The top 3 countries with the most types of ships used are the Germany, the U.S and Japan. Germany devoted the most ships, accounting for 54.6% of the total types of vehicles. Second and third are the U.S and Japan, with 27.0% and 8.8% respectively.
+The top 3 countries with the most types of ships used are Germany, the U.S and Japan. Germany devoted the most ships, accounting for 54.6% of the total types of vehicles. Second and third are the U.S and Japan, with 27.0% and 8.8% respectively.
 
 #### [Vehicles]{.underline}
 
-The top 3 countries with the most types of vehicles used are the Germany, the UK and the U.S. Germany devoted the most vehicles, accounting for 21.0% of the total types of vehicles. Second and third are the UK and the U.S, with 19.3% and 15.5% respectively.
+The top 3 countries with the most types of vehicles used are Germany, the UK and the U.S. Germany devoted the most vehicles, accounting for 21.0% of the total types of vehicles. Second and third are the UK and the U.S, with 19.3% and 15.5% respectively.
 
 #### [Weapons]{.underline}
 
-The top 3 countries with the most types of weapons used are the Germany, the U.S and Japan. Germany devoted the most weapons, accounting for 88.0% of the total types of vehicles. Second and third are the U.S and Japan, with 17.6% and 14.8% respectively.
+The top 3 countries with the most types of weapons used are Germany, the U.S and Japan. Germany devoted the most weapons, accounting for 88.0% of the total types of vehicles. Second and third are the U.S and Japan, with 17.6% and 14.8% respectively.
 
 ### Types of military resources
 
@@ -69,17 +69,17 @@ Here, I will explain the reasons for the data above, with reference to the top c
 #### [Aircraft]{.underline}
 ![](US_aircrafy.gif)
 
-The United States used the most types of aircraft because of its global commitment and the remoteness of battleground. Even before the U.S formally entered the war, it provided significant military assistance to Allied nations through the Lend-Lease program. This included the supply of aircraft to countries like the United Kingdom, the Soviet Union, and others, contributing to the overall number of aircraft used by the Allies. After the Japanese attack of the Pearl Harbour, the U.S became directly involved in both the European and Pacific theaters of the war. However, the actual war zones were relatively far from the U.S ground. Therefore, a large and diverse air force is required to support military operations on multiple fronts. Specifically, the U.S strategic bombing campaigns in Europe and the Pacific required a substantial number of aircraft. The B-17 Flying Fortress and the B-24 Liberator, among other bomber models, were extensively used in these campaigns. The Pacific Theater of the war involved extensive naval and air operations, including carrier-based aircraft. The U.S. Navy's aircraft carriers played a crucial role, and the U.S. produced a large number of carrier-based aircraft, such as the Grumman F6F Hellcat and the Douglas SBD Dauntless.
+The United States used the most types of aircraft because of its global commitment and the remoteness of battleground. Even before the U.S formally entered the war, it provided significant military assistance to Allied nations through the Lend-Lease program. This included the supply of aircraft to countries like the United Kingdom, the Soviet Union, and others, contributing to the overall number of aircraft used by the Allies. After the Japanese attack of the Pearl Harbour, the U.S became directly involved in both the European and Pacific theatres of the war. However, the actual war zones were relatively far from the U.S ground. Therefore, a large and diverse air force is required to support military operations on multiple fronts. Specifically, the U.S strategic bombing campaigns in Europe and the Pacific required a substantial number of aircraft. The B-17 Flying Fortress and the B-24 Liberator, among other bomber models, were extensively used in these campaigns. The Pacific Theatre of the war involved extensive naval and air operations, including carrier-based aircraft. The U.S. Navy's aircraft carriers played a crucial role, and the U.S. produced a large number of carrier-based aircraft, such as the Grumman F6F Hellcat and the Douglas SBD Dauntless.
 
 #### [Ships]{.underline}
  ![](uboat-ww2.gif)
 
-Germany used the most types of ships, particularly submarines (U-boats) because of their costs and Germany's geographical location. The defeat in World War I took a heavy toll on Germany's economy and industrial capacity. U-boats were seen as a cost-effective means and therefore were prioritised over large surface fleet. Moreover, Germany's location in Europe allowed U-boats relatively easy access to the Atlantic Ocean and the North Sea. Coastal waters provided natural hiding places for U-boats to operate from and return to. This allowed Germany to launch surprise attacks on the Allied Powers.
+Germany used the most types of ships, particularly submarines (U-boats) because of their costs and Germany's geographical location. The defeat in World War I took a heavy toll on Germany's economy and industrial capacity. U-boats were seen as a cost-effective means and therefore were prioritised over large surface fleets. Moreover, Germany's location in Europe allowed U-boats relatively easy access to the Atlantic Ocean and the North Sea. Coastal waters provided natural hiding places for U-boats to operate from and return to. This allowed Germany to launch surprise attacks on the Allied Powers.
 
 #### [Vehicles]{.underline}
  ![](Germany_blitz.gif)
 
-Germany used the most types of vehicles because of their Blitzkrieg tactics. The Blitzkrieg (lightning warfare) tactics required highly mobile and mechanized forces. The German military emphasised the rapid movement of troops and equipment, and this approach necessitated a significant investment in various types of vehicles. For instance, the Wehrmacht, (Panzer division) was the key element in Germany's success in the Blitzkrieg tactics. They heavily relied on mechanized units, which were equipped with armored personnel carriers and infantry fighting vehicles for transport and combat.
+Germany used the most types of vehicles because of their Blitzkrieg tactics. The Blitzkrieg (lightning warfare) tactics required highly mobile and mechanised forces. The German military emphasised the rapid movement of troops and equipment, and this approach necessitated a significant investment in various types of vehicles. For instance, the Wehrmacht, (Panzer division) was the key element in Germany's success in the Blitzkrieg tactics. They heavily relied on mechanised units, which were equipped with armoured personnel carriers and infantry fighting vehicles for transport and combat.
 
 #### [Weapons]{.underline}
  ![](Germany_vehicles.gif)
